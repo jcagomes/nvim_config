@@ -1,4 +1,5 @@
 ## Configure nvim
+install chrome
 install scroll reverser
 `axes vertical 
 devices mouse`
