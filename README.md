@@ -24,6 +24,7 @@ brew install pyenv
 Run zsh commands in - https://github.com/pyenv/pyenv
 brew install openssl readline sqlite3 xz zlib tcl-tk
 pyenv install 3.10.1
+pyenv global 3.10.1 
 python --version
 pip install -U pynvim
 pip install 'python-lsp-server[all]' pylsp-mypy pyls-isort
