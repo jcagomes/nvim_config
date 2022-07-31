@@ -18,6 +18,12 @@ icon; material icon
 ### install iterm2
 install ohmyzsh - https://github.com/ohmyzsh/ohmyzsh
 ### nvim_config
+install homebrew - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install rectangle
+brew install pyenv
+Run zsh commands in - https://github.com/pyenv/pyenv
+brew install openssl readline sqlite3 xz zlib tcl-tk
+pyenv install 3.10.1
 python --version
 pip install -U pynvim
 pip install 'python-lsp-server[all]' pylsp-mypy pyls-isort
