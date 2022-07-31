@@ -16,8 +16,7 @@ color: tomorrow night blue
 icon; material icon
 
 ### install iterm2
-instal ohmyzsh
-git clone https://github.com/ohmyzsh/ohmyzsh.git
+install ohmyzsh - https://github.com/ohmyzsh/ohmyzsh
 ### nvim_config
 python --version
 pip install -U pynvim
