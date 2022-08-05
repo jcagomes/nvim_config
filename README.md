@@ -62,3 +62,7 @@ right click dock and choose auto hide
 mac
 ---
 Preferences -> keyboard - > F keys are standard F keys. remove world key as nothing
+
+signcolumn
+--
+vi ~/.config/nvim/core/options.vim | set to signcolumn:yes:2 
